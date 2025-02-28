@@ -377,6 +377,7 @@
 "Assets/Scripts/CombatManager.cs"
 "Assets/Scripts/CombatValues.cs"
 "Assets/Scripts/Enemy.cs"
+"Assets/Scripts/PlayerMove.cs"
 "Assets/Scripts/TestLoaderScript.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"

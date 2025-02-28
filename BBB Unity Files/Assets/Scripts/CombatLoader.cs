@@ -28,7 +28,7 @@ public class CombatLoader : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Pleyer"))
+        if (collision.CompareTag("Player"))
         {
             loadCombat();
         }
