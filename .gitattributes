@@ -36,7 +36,7 @@
 *.ttf               filter=lfs diff=lfs merge=lfs -text
 *.rns               filter=lfs diff=lfs merge=lfs -text
 *.reason            filter=lfs diff=lfs merge=lfs -text
-*.lxo  
+*.lxo               filter=lfs diff=lfs merge=lfs -text
 
 # Unity Assets (Large Binary Files)
 *.psd filter=lfs diff=lfs merge=lfs
